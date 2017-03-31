@@ -1,7 +1,10 @@
 # EZE-DATABASE
 Version 1.0 - Dynamic database class written in PHP (OOP)
+
 (C) 2002 - Biznatch Enterprises (Biznaturally.ca)
+
 Semi-stable release (Experimental).
+
 Version 2.0 is currently in development
 Tested on: PHP 4, PHP 5, PHP 7
 
