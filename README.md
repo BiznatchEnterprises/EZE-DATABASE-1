@@ -12,5 +12,5 @@ Version 2.0 is currently in development
 
 Multiple databases can be loaded concurrently as unique "objects" within the class, accessing their methods (functions) individually.
 
-Once parsed from the database: All data can be used by a PHP script by using a double array.
+Once parsed from the database: All data can be read by a PHP script by using a double array.
 $DATABASE[partition][sector]
