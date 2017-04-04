@@ -14,3 +14,7 @@ Multiple databases can be loaded concurrently as unique "objects" within the cla
 
 Once parsed from the database: All data can be read by a PHP script by using a double array.
 $DATABASE[partition][sector]
+
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
